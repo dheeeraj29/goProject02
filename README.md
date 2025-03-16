@@ -20,6 +20,7 @@ Displays current balance and winnings after each spin.
 > cd .\simpleSlotMachine\ 
 
 Run the Program: In the terminal, run the following command:
+> go mod tidy
 > go run .
 
 
