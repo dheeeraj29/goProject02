@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# goProject02
-Simple Slot Machine
-=======
+<<<<<<< 
 # Projects 
 
 //simple slot machine 
@@ -56,4 +53,3 @@ Won $200, (10x) on line #1
 ...
 
 ---==============================================
->>>>>>> master
