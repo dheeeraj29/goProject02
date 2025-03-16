@@ -30,15 +30,21 @@ Welcome to the Casino.
 Enter your name: dhee
 Welcome dhee, let's play!
 Enter your bet, or 0 to quit (balance = $200): 20
+
 A | B | C
 C | C | C
 A | D | B
+
 Won $60, (3x) on line #2
+
 Enter your bet, or 0 to quit (balance = $240): 20
+
 B | B | B
 A | A | A
 A | B | A
+
 Won $200, (10x) on line #1
+
 ...
 
 ---==============================================
