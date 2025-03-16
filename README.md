@@ -1,5 +1,5 @@
 <<<<<<< 
-# Projects 
+# goProject02 
 
 //simple slot machine 
 
